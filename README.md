@@ -1,4 +1,4 @@
-<h1 Backgroudcolor:#c6ffaf > </h1>
+<h1 BackgroudColor:#c6ffaf >  Hello travelers </h1>
 
  <img src="IMG/picmix.com_2584118.gif" width="300" height="auto" margin:0 auto>
 
